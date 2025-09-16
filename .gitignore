@@ -1,0 +1,15 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# SQLite database
+*.db
+
+# Python virtual environment
+.venv/
+virtual/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
